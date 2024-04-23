@@ -42,6 +42,8 @@ class Resume {
   String tech;
   String description;
 
+  List<String> techno;
+
   //Carrier_obj Variables
   String carrier_obj;
   String current_designation;
@@ -52,6 +54,7 @@ class Resume {
   String place;
 
   Resume({
+    required this.techno,
     required this.roles,
     required this.DOB,
     required this.project_title,

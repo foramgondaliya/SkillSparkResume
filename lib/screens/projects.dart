@@ -320,13 +320,13 @@ class _project_pageState extends State<project_page> {
                                     ElevatedButton(
                                       onPressed: () {
                                         if (c_language) {
-                                          Global.languages.add("C Programming");
+                                          Global.techno.add("C Programming");
                                         }
                                         if (c_plus) {
-                                          Global.languages.add("c++");
+                                          Global.techno.add("c++");
                                         }
                                         if (flutter) {
-                                          Global.languages.add("Flutter");
+                                          Global.techno.add("Flutter");
                                         }
                                         if (projectKey.currentState!
                                             .validate()) {

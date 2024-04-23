@@ -102,6 +102,12 @@ class Global {
     TextEditingController(),
   ];
 
+  static List<TextEditingController> achievment = [
+    TextEditingController(),
+    TextEditingController(),
+  ];
+  static List<String> achieveData = [];
+
   static List<String> skillData = [];
   static String ResumeName = "";
 
@@ -113,6 +119,8 @@ class Global {
   static String contact = "";
   static String address = "";
   static File? profileImageFile;
+
+  static Resume? selectedResume;
 
   //Reference Variables
   static String reference = "";
@@ -143,6 +151,7 @@ class Global {
   static String role = "";
   static String tech = "";
   static String description = "";
+  static List<String> techno = [];
 
   //Carrier_obj Variables
   static String carrier_obj = "";

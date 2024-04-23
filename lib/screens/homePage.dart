@@ -184,6 +184,7 @@ class _homepageState extends State<homepage> {
                                 ...Global.allResume.map(
                                   (e) => GestureDetector(
                                     onTap: () {
+                                      Global.selectedResume = e;
                                       Navigator.of(context)
                                           .pushNamed('pdf_viewer');
                                     },

@@ -406,6 +406,8 @@ class _declarationState extends State<declaration> {
                                                                     Resume
                                                                         resume =
                                                                         Resume(
+                                                                      techno: Global
+                                                                          .techno,
                                                                       roles: Global
                                                                           .roles,
                                                                       DOB: Global
@@ -490,11 +492,6 @@ class _declarationState extends State<declaration> {
                                                                         .allResume
                                                                         .add(
                                                                             resume);
-
-                                                                    Navigator.of(context).pushNamedAndRemoveUntil(
-                                                                        'homepage',
-                                                                        (route) =>
-                                                                            false);
                                                                   }
                                                                 },
                                                                 style: OutlinedButton

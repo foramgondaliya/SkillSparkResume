@@ -103,7 +103,8 @@ class _personal_infoState extends State<personal_info> {
                                         activeColor: primaryBlueColor,
                                         onChanged: (val) {
                                           setState(() {
-                                            radioStatus = val!;
+                                            radioStatus = val as String;
+                                            Global.gender = val as String;
                                           });
                                         }),
                                     Text(
@@ -124,7 +125,8 @@ class _personal_infoState extends State<personal_info> {
                                         activeColor: primaryBlueColor,
                                         onChanged: (val) {
                                           setState(() {
-                                            radioStatus = val!;
+                                            radioStatus = val as String;
+                                            Global.gender = val as String;
                                           });
                                         }),
                                     Text(
