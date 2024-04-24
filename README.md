@@ -38,7 +38,6 @@ The app provides options for users to preview their resume within the app interf
 ![Screenshot_20240424_090026](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/d317f64c-42ee-486e-af9c-b71b44532862)
 ![Screenshot_20240424_090350](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/00134868-2fcd-416a-8ab0-93e786cc1148)
 ![Screenshot_20240424_090042](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/af9301c7-7dfb-407c-871b-1009d727661c)
-![Screenshot_20240424_090626](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/00c3a91e-c9c7-48ec-aff1-688ecc15c776)
 ![Screenshot_20240424_090601](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/6b724ed7-8d84-43f0-b866-d81d99cb4c2f)
 ![Screenshot_20240424_090544](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/73e3e314-e412-4f5b-a208-e2a71d92517c)
 ![Screenshot_20240424_090434](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/63ea367f-f9c7-4b62-b6cd-d47882c1dbea)
