@@ -1,16 +1,36 @@
 # skillsparkresume
 
-A new Flutter project.
+## Features
 
-## Getting Started
+## Personal Details: 
+Users can input their personal information such as name, contact details, address, and 
+professional summary.
 
-This project is a starting point for a Flutter application.
+## Contact Information: 
+A section dedicated to displaying the user's contact details including phone number, 
+email address, and LinkedIn profile link.
 
-A few resources to get you started if this is your first Flutter project:
+## Education: 
+Users can list their educational background including degrees, institutions, graduation
+dates, and relevant certifications.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Career Objective: 
+A space for users to articulate their career goals and objectives.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Work Experience: 
+Users can add their work history, including job titles, company names, employment dates,
+and descriptions of responsibilities and achievements.
+
+## Skills: 
+Allows users to showcase their skills and proficiencies relevant to their professional 
+field.
+
+## Achievements: 
+Users can highlight their notable achievements, awards, and recognitions.
+
+## Projects: 
+A section for users to showcase their significant projects, including descriptions, 
+roles, and outcomes.
+
+## View and Download: 
+The app provides options for users to preview their resume within the app interface and download it in popular formats such as PDF.

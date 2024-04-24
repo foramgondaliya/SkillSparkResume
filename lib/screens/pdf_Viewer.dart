@@ -2,12 +2,12 @@ import 'dart:io';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/painting.dart';
 import 'package:flutter/widgets.dart';
 import 'package:pdf/pdf.dart';
 import 'package:pdf/widgets.dart' as pw;
 import 'package:skillsparkresume/model/resume.dart';
 import 'package:skillsparkresume/utils/global.dart';
-import 'package:flutter/material.dart';
 import 'package:path_provider/path_provider.dart';
 
 class pdf_viewer extends StatefulWidget {
@@ -72,9 +72,17 @@ class _pdf_viewerState extends State<pdf_viewer> {
                         flex: 2,
                         child: pw.Container(
                           child: pw.Container(
-                            height: 150,
-                            width: 150,
+                            height: 100,
+                            width: 100
+                            ,
                             decoration: pw.BoxDecoration(
+                              image: pw.DecorationImage(
+                                image: pw.MemoryImage(
+                                  Global.selectedResume!.profileImageFile!
+                                      .readAsBytesSync(),
+                                ),
+                                fit: pw.BoxFit.cover,
+                              ),
                               shape: pw.BoxShape.circle,
                             ),
                           ),
@@ -848,8 +856,12 @@ class _pdf_viewerState extends State<pdf_viewer> {
                       child: Container(
                         height: 150,
                         width: 150,
-                        //child: Image.file(Resume.profileImageFile),
                         decoration: BoxDecoration(
+                          image: DecorationImage(
+                            image: FileImage(
+                                Global.selectedResume!.profileImageFile!),
+                            fit: BoxFit.cover,
+                          ),
                           shape: BoxShape.circle,
                           color: Colors.red,
                         ),
