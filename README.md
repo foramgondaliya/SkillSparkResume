@@ -35,6 +35,11 @@ roles, and outcomes.
 ## View and Download: 
 The app provides options for users to preview their resume within the app interface and download it in popular formats such as PDF.
 
+
+
+https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/b2f8b949-47c6-41ff-94fd-3a09681788cf
+
+
 ![Screenshot_20240424_090026](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/d317f64c-42ee-486e-af9c-b71b44532862)
 ![Screenshot_20240424_111021](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/a24be938-fd5a-4669-abb7-64f1595444ce)
 ![Screenshot_20240424_090350](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/00134868-2fcd-416a-8ab0-93e786cc1148)
