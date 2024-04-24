@@ -35,17 +35,18 @@ roles, and outcomes.
 ## View and Download: 
 The app provides options for users to preview their resume within the app interface and download it in popular formats such as PDF.
 
+![Screenshot_20240424_090026](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/d317f64c-42ee-486e-af9c-b71b44532862)
+![Screenshot_20240424_090350](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/00134868-2fcd-416a-8ab0-93e786cc1148)
+![Screenshot_20240424_090042](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/af9301c7-7dfb-407c-871b-1009d727661c)
+![Screenshot_20240424_090626](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/00c3a91e-c9c7-48ec-aff1-688ecc15c776)
+![Screenshot_20240424_090601](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/6b724ed7-8d84-43f0-b866-d81d99cb4c2f)
+![Screenshot_20240424_090544](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/73e3e314-e412-4f5b-a208-e2a71d92517c)
+![Screenshot_20240424_090434](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/63ea367f-f9c7-4b62-b6cd-d47882c1dbea)
+![Screenshot_20240424_090411](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/012636f8-be49-4036-a43a-7c94821c2425)
+![Screenshot_20240424_090814](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/f751b5ce-72c4-426c-98b4-a6c8ae27caf0)
+![Screenshot_20240424_090738](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/d4e3b7c4-d814-485c-8319-f240cb605181)
+![Screenshot_20240424_090723](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/5950413f-dd10-4028-b7ad-68ca142b047c)
+![Screenshot_20240424_090704](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/6456e59a-3e6b-47db-bc6c-d957bee156cb)
 
-![Screenshot_20240424_090026](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/6e2c7dff-c69c-456d-9016-36cd9aec92a9)
-![Screenshot_20240424_090350](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/0c5a94a1-8054-4c1a-8f6f-598ceadc7664)
-![Screenshot_20240424_090042](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/514e7395-f561-44e6-892e-90f7d170bfcb)
-![Screenshot_20240424_090626](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/b82e9bcc-484c-4605-babc-b7b21d1b5163)
-![Screenshot_20240424_090601](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/d75f7cc1-418d-41e7-b4e3-fabbf0fc7c55)
-![Screenshot_20240424_090544](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/3cc259a4-e705-45bc-bd7b-d9b910b6b525)
-![Screenshot_20240424_090434](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/15312cd4-11e4-4242-a7b8-1686ca902b05)
-![Screenshot_20240424_090411](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/0f6dbc82-343a-4da9-9922-6cc6f122e92d)
-![Screenshot_20240424_090814](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/255fd3d3-69f6-49b2-a0ae-02b7f58d9536)
-![Screenshot_20240424_090738](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/583acbc9-eac9-4998-8dcc-1b07bc6d1e89)
-![Screenshot_20240424_090723](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/9845f229-e8e4-4a52-acc0-9384e4b9d132)
-![Screenshot_20240424_090704](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/14028591-93a6-43b3-b916-fd176a3c4e06)
+
 
