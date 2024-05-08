@@ -53,7 +53,6 @@ https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/b2f8b949-47c
 ![Screenshot_20240424_090723](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/5950413f-dd10-4028-b7ad-68ca142b047c)
 ![Screenshot_20240424_090704](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/6456e59a-3e6b-47db-bc6c-d957bee156cb)
 ![Screenshot_20240424_114648](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/24feba9a-3081-411b-972d-b55c7b167bcc)
-![Screenshot_20240424_114648 - Copy](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/adb74327-44f6-43c6-a483-d917a0f7ccec)
 ![Screenshot_20240424_085950](https://github.com/foramgondaliya/SkillSparkResume/assets/149999919/4460ac3f-3f30-4e65-8812-035bece4ded6)
 
 
